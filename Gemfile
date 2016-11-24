@@ -15,6 +15,12 @@ gem 'pg', group: :production
 #12 factor for heroku
 gem 'rails_12factor', group: :production
 
+gem 'bootstrap-sass'
+
+
+
+
+
 
 
 # Use Puma as the app server
